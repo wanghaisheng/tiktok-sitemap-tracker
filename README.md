@@ -1,7 +1,4 @@
-quick website starter
+https://www.tiktok.com/sitemap.xml
 
 
-build website in 5 minutes
-
-
-powered by websim,germini,claude
+https://github.com/karlhorky/github-actions-database-persistence
